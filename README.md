@@ -1,2 +1,2 @@
-# Octanet_Feb
+# Octanet_February
 Web Development Internship
